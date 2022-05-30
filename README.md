@@ -34,7 +34,7 @@ Framework dan aplikasi pendukung yang digunakan dalam membangun aplikasi ini:
 <p align="center"><img width="300" src="Screenshot/Tampilan App.jpg" alt="Tampilan Aplikasi.jpg"></p>
 
 <b>2. Pilih Kategori berita.</b>
-<p align="center"><img width="300" src="Screenshot/Kategori Berita.jpg" alt="Kategori Berita.jpg"></p>
+<p align="center"><img width="300" src="Screenshot/kategori Berita.jpg" alt="Kategori Berita.jpg"></p>
 
 <b>3. Atau langsung pilih berita yang sedang trending.</b>
 <p align="center"><img width="300" src="Screenshot/Trending.jpg" alt="Trending.jpg"></p>
